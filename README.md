@@ -19,3 +19,6 @@ My submission for the CSIT 2023 Software Engineering Mini Challenge on Backend D
     2. Format the data in the given request body
     3. Call the respective [database.py](https://github.com/noahseethorcodes/CSIT-2023-Mini-Chal-3-Sub/blob/main/app/database.py) functions with the given arguments
     4. Return the results
+
+## Digital Badge
+<img src="https://github.com/noahseethorcodes/CSIT-2023-Mini-Chal-3-Sub/blob/main/csit-se-challenge-2023-dbadge.png">
